@@ -38,4 +38,4 @@ of rewards and the sum of scores per run for each agent. The Q-learning and Sars
 random agent, with Q-learning showing slightly better performance. The Figures 3 & 4 shows the inital (on left) and
 final results (on right) respectively.
 
-<img src="https://user-images.githubusercontent.com/127759119/229242619-81c92815-0ff8-41fe-b95f-c4461e0994aa.png" alt="alt text" width="600"/> <img src="https://user-images.githubusercontent.com/127759119/229242632-963fb6cb-908e-418b-bc94-1fdad9aa9f03.png" alt="alt text" width="600"/>
+<img src="https://user-images.githubusercontent.com/127759119/229242619-81c92815-0ff8-41fe-b95f-c4461e0994aa.png" alt="alt text" width="500"/> <img src="https://user-images.githubusercontent.com/127759119/229242632-963fb6cb-908e-418b-bc94-1fdad9aa9f03.png" alt="alt text" width="500"/>
