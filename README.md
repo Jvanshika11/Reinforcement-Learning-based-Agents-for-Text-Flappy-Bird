@@ -35,9 +35,6 @@ We swept step-size, epsilon (exploration rate), and discount factor for Q-learni
 To compare the performance of the two agents with a baseline, we also included a random agent that chooses
 actions randomly from the action sample space. We ran each agent for 10000 episodes, and plotted the sum
 of rewards and the sum of scores per run for each agent. The Q-learning and Sarsa agents outperformed the
-random agent, with Q-learning showing slightly better performance. The Figures 3 & 4 shows the inital and
-final results respectively.
-<img src="https://user-images.githubusercontent.com/127759119/229242619-81c92815-0ff8-41fe-b95f-c4461e0994aa.png" alt="alt text" width="1200"/>
-
-
-<img src="https://user-images.githubusercontent.com/127759119/229242632-963fb6cb-908e-418b-bc94-1fdad9aa9f03.png" alt="alt text" width="1200"/>
+random agent, with Q-learning showing slightly better performance. The Figures 3 & 4 shows the inital (on left) and
+final results (on right) respectively.
+<img src="https://user-images.githubusercontent.com/127759119/229242619-81c92815-0ff8-41fe-b95f-c4461e0994aa.png" alt="alt text" width="600"/> <img src="https://user-images.githubusercontent.com/127759119/229242632-963fb6cb-908e-418b-bc94-1fdad9aa9f03.png" alt="alt text" width="600"/>
